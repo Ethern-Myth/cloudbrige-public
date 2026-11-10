@@ -58,3 +58,7 @@ CloudBridge is maintained as a private project. Its source code and internal imp
 This page provides a high-level overview of its technologies, capabilities and architectural direction. Additional visual documentation, architecture diagrams and technical insights may be introduced as the project evolves.
 
 ☄️ Shipping soon. ⏳
+
+## Author
+
+Created and Maintained by: [Ethern-Myth](https://github.com/ethern-myth)
