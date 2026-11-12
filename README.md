@@ -6,6 +6,9 @@ CloudBridge is a software engineering project exploring the integration of moder
 
 The project brings together asynchronous communication, speech processing, knowledge retrieval and controlled tool integration through practical implementation.
 
+## UPDATES
+
+YouTube video will be available soon for the demo and information to be updated here.
 
 ## Technology Stack
 
