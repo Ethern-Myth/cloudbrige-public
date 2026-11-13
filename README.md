@@ -8,20 +8,25 @@ The project brings together asynchronous communication, speech processing, knowl
 
 ## UPDATES
 
-YouTube video demo video coming soon...
+
+### Video available here
+
+Check out the video here:
+
+[!Watch the video](https://img.youtube.com/vi/762TrSsgU7Y/hqdefault.jpg)](https://www.youtube.com/watch?v=762TrSsgU7Y)
 
 ## Technologies
 
-**Platform**: .NET 10 / ASP.NET Core
-**Cloud Infrastructure**: Amazon Web Services (AWS) and Microsoft Azure
-**AI Runtime**: Ollama
-**Messaging**: Azure Service Bus
-**Integration**: Model Context Protocol (MCP)
-**Persistence**: SQLite / Azure SQL / Entity Framework Core
-**Speech**: Whisper.net and Piper
-**Infrastructure as Code**: Terraform
-**Containerization**: Docker
-**Deployment**: Amazon ECR and Amazon EC2
+- **Platform**: .NET 10 / ASP.NET Core
+- **Cloud Infrastructure**: Amazon Web Services (AWS) and Microsoft Azure
+- **AI Runtime**: Ollama
+- **Messaging**: Azure Service Bus
+- **Integration**: Model Context Protocol (MCP)
+- **Persistence**: SQLite / Azure SQL / Entity Framework Core
+- **Speech**: Whisper.net and Piper
+- **Infrastructure as Code**: Terraform
+- **Containerization**: Docker
+- **Deployment**: Amazon ECR and Amazon EC2
 
 ## 1. Architecture Overview
 
