@@ -13,7 +13,7 @@ The project brings together asynchronous communication, speech processing, knowl
 
 Check out the video here:
 
-[!Watch the video](https://img.youtube.com/vi/762TrSsgU7Y/hqdefault.jpg)](https://www.youtube.com/watch?v=762TrSsgU7Y)
+[![Watch the video](https://img.youtube.com/vi/762TrSsgU7Y/hqdefault.jpg)](https://www.youtube.com/watch?v=762TrSsgU7Y)
 
 ## Technologies
 
